@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 ```
-[https://github.com/LeshkaKlein/test-Poetry.git](https://github.com/irawildrun/PythonProject4)
+https://github.com/irawildrun/PythonProject4.git
 ```
 
 2. Установите зависимости:
